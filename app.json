@@ -1,8 +1,4 @@
- changed file with 0 additions and 64 deletions.
- 64  
-app.json
-@@ -1,64 +0,0 @@
-{	
+ {
     "name": "سورس ميوزك ابن الدورة ",	
     "description": "اهلا بك في تنصيب ميوزك ابن الدورة مجانا @x02x2",	
     "logo": "https://l.top4top.io/p_2363dcjiw1.jpg",	
